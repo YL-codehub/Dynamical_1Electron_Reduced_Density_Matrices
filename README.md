@@ -219,3 +219,6 @@ plotALL(solP,atomicOrbitals_G,R,T,SF6,CP6,volume,'InputFiles/DENSPatoNew.dat',B)
 ```
 
 Now is your turn to combine ... Other possibilities with softwares in 'Explorations' or see article.
+
+## Hierarchy for future developers
+[Hierarchy](./Software Architecture.pdf)
